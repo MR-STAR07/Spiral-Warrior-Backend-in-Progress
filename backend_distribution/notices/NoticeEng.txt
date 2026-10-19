@@ -1,0 +1,3 @@
+LOCAL COMMUNITY TEST NOTICE
+This message is served from the local Spiral Warrior test backend.
+Edit this file to change the announcement text.
