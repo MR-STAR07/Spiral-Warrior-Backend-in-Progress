@@ -14,8 +14,7 @@ The `backend_distribution/` directory contains the standalone backend package, s
 
 See [`backend_distribution/README.md`](backend_distribution/README.md) for setup instructions and requirements.
 
-The backend is intended for local-network testing and is not production-ready. Do not expose it directly to the public internet.
-
+The backend is intended for local-network testing and is not production-ready. 
 ## Disclaimer
 
 This is an unofficial community preservation and research project. It is not affiliated with the original developers or publisher. Rights to third-party game assets and data remain with their respective owners.
