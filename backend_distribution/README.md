@@ -35,7 +35,7 @@ The backend advertises the selected host address in its server/area responses. I
 
 On first launch, the launcher creates fresh `data/local_accounts.sqlite3`, `data/accounts/`, and `logs/` runtime storage inside this folder. These files are not shipped. Do not copy an existing development database or account profiles into this package.
 
-The `data` directory includes local catalogs required for the current recovered box, part-upgrade, level-progression, and Spiral Mart lottery behavior. They were derived from game-client resources and are included to make those local compatibility flows available. Their redistribution rights have not been reviewed; **do not upload this folder publicly until you confirm you may redistribute these derived catalogs**. This project has no assigned open-source license. The implementation also remains incomplete relative to the original backend.
+The `data` directory includes local catalogs required for the current recovered box, part-upgrade, level-progression, and Spiral Mart lottery behavior. They were derived from game-client resources and are included to make those local compatibility flows available. Their redistribution rights have not been reviewed. This project has no assigned open-source license. The implementation also remains incomplete relative to the original backend.
 
 Other catalogs absent from the current backend workspace (including a free-purchase catalog and some optional Adventure catalogs) remain unavailable or use the backend's existing fallback behavior. The package does not recreate them.
 
